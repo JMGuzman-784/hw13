@@ -15,7 +15,7 @@ This repo/code gives a user the ability to add their database name, and MySQL pa
 * To view how to run the code below is a YouTube Video walktrough.
 [ORM](https://youtu.be/bvUlGN7yujc)
 
-* To view how to run the code below is a YouTube Video walktrough.
+* Below is part 2 of the YouTube Video walktrough.
 [ORMpt2](https://youtu.be/3YyxBcDfCvE)
 
 * Below is an image preview 
@@ -25,6 +25,6 @@ This repo/code gives a user the ability to add their database name, and MySQL pa
 
 ## Links 🖊️
 
-* Here is the link to my github 🐈‍⬛: [Github/JMGuzman-784](https://github.com/JMGuzman-784/employee-tracker)
+* Here is the link to my github 🐈‍⬛: [Github/JMGuzman-784](https://github.com/JMGuzman-784/hw13)
 
-* Here is the code 📜: [JMGuzman-784/Employee-Tracker](https://github.com/JMGuzman-784/employee-tracker/blob/main/index.js)
+* Here is the code 📜: [JMGuzman-784/ORM](https://github.com/JMGuzman-784/hw13/blob/main/server.js)
